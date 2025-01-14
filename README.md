@@ -84,19 +84,22 @@ This repository contains a **Sentiment Analysis Web Application** built using **
 ### Image Analysis
 
 ## Future Enhancements
-    Add support for real-time video emotion analysis.
-    Expand the dataset for more nuanced sentiment analysis.
+  - Add support for real-time video emotion analysis.
+  - Expand the dataset for more nuanced sentiment analysis.
 
 ## Contributing
-    Contributions are welcome! Please fork the repository and submit a pull request.
+  - Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
-    This project is licensed under the MIT License. See the LICENSE file for details.
+## License  
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-    Streamlit for the awesome framework.
-    OMDb API for movie details.
-    FER Library for facial emotion recognition.
+---
+
+## Acknowledgements  
+- [Streamlit](https://streamlit.io) for the awesome framework.  
+- [OMDb API](http://www.omdbapi.com/) for movie details.  
+- [FER Library](https://github.com/justinshenk/fer) for facial emotion recognition.  
+
 
 Happy Coding! 🎉
 
