@@ -1,0 +1,11 @@
+streamlit
+requests
+pillow
+opencv-python
+textblob
+nltk
+flair
+text2emotion
+plotly
+fer
+tensorflow
