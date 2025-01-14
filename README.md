@@ -59,9 +59,9 @@ This repository contains a **Sentiment Analysis Web Application** built using **
 1. Open the app in your browser (usually at http://localhost:8501/).
 
 2. Use the sidebar to select an analysis mode:
-  - **IMDb Movie Reviews:** Enter a movie name and analyze its plot.
-  - **Text Analysis:** Enter any text to analyze its sentiment and emotions.
-  - **Image Analysis:** Upload an image to analyze facial emotions.
+    - **IMDb Movie Reviews:** Enter a movie name and analyze its plot.
+    - **Text Analysis:** Enter any text to analyze its sentiment and emotions.
+    - **Image Analysis:** Upload an image to analyze facial emotions.
 
 3. View the results, including interactive visualizations, in the app.
 
